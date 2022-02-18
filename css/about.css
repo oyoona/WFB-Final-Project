@@ -73,19 +73,19 @@ p {
   }
 
 .one {
-    background-color: rgb(235, 161, 161);
+    background-color: rgb(196, 166, 142);
     height: 500px;
     margin: 7px;
 }
 
 .two {
-    background-color: rgb(255, 199, 45);
+    background-color: rgb(219, 179, 171);
     height: 500px;
     margin: 7px;
 }
 
 .three {
-    background-color: rgb(71, 183, 187);
+    background-color: rgb(160, 157, 154);
     height: 500px;
     margin: 7px;
 }
