@@ -59,6 +59,10 @@ h1 {
     color: rgb(39, 33, 32);
 }
 
+h2 {
+    color: white;
+}
+
 p {
     text-align: center;
     font-family: 'Red Hat Display', sans-serif;
